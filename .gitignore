@@ -1,5 +1,5 @@
 output/
 models/
 demo.py
-idea/
+.idea/
 __pycache__/
