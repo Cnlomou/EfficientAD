@@ -1,5 +1,5 @@
-./output
-./models
+output/
+models/
 demo.py
-./idea
-./__pycache__
+idea/
+__pycache__/
